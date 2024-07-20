@@ -16,7 +16,7 @@ Python...
 
 ## Machine Learning
 
-Machine is trained by many samples
+Machine is trained by many samples.
 
 
 ## Important Libraries needed
